@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "雷波",
+  "usingComponents": {
+    "base-container": "/components/BaseWrapper"
+  }
+}
